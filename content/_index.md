@@ -95,7 +95,7 @@ sections:
           description: Responsible for data collection and statistics analysis in young children physical fitness.
         - title: Research Intern
           company: Sichuan University
-          company_url: https://www.wchscu.cn/dsj/index.html
+          company_url: https://ggglxyen.scu.edu.cn/index.htm
           company_logo: scu
           location: Chengdu, China
           date_start: '2020-06-01'
