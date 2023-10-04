@@ -56,7 +56,7 @@ sections:
         - title: Research Assistant
           company: The Chinese University Of Hong Kong
           company_url: 'https://www.cse.cuhk.edu.hk/'
-          company_logo: cuhk
+          company_logo: org-gc
           location: Hong Kong, China
           date_start: '2023-08-01'
           date_end: ''
@@ -64,7 +64,7 @@ sections:
         - title: Data Analyst(Intership)
           company: Siemens
           company_url: 'https://blog.siemens.com/2021/11/the-power-of-simulation/'
-          company_logo: siemens
+          company_logo: org-x
           location: Chendu, China
           date_start: '2022-12-01'
           date_end: '2023-4-01'
