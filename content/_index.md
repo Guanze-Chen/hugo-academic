@@ -60,7 +60,7 @@ sections:
           location: Hong Kong, China
           date_start: '2023-08-01'
           date_end: ''
-          description: 'Parameter-Efficient Fine-Tuning (PEFT) FOR LLMS and Test efficiency'
+          description: Parameter-Efficient Fine-Tuning (PEFT) FOR LLMS and Test efficiency.
         - title: Data Analyst(Intership)
           company: Siemens
           company_url: 'https://blog.siemens.com/2021/11/the-power-of-simulation/'
