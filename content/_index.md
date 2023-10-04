@@ -71,7 +71,7 @@ sections:
       items:
         - title: Research Assistant
           company: The Chinese University Of Hong Kong
-          company_url: https://www.cse.cuhk.edu.hk/
+          company_url: ''
           company_logo: cuhk
           location: Hong Kong, China
           date_start: '2023-08-01'
@@ -79,7 +79,7 @@ sections:
           description: Parameter-Efficient Fine-Tuning (PEFT) FOR LLMS and Test efficiency.
         - title: Data Analyst(Intership)
           company: Siemens
-          company_url: https://blog.siemens.com/2021/11/the-power-of-simulation/
+          company_url: ''
           company_logo: siemens
           location: Chendu, China
           date_start: '2022-12-01'
