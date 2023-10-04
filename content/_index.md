@@ -61,7 +61,7 @@ sections:
           date_start: '2023-08-01'
           date_end: ''
           description: Parameter-Efficient Fine-Tuning (PEFT) FOR LLM and test efficiency.
-        - title: Data Analyst(Intership)
+        - title: Data Analyst(Internship)
           company: Siemens
           company_url: https://blog.siemens.com/2021/11/the-power-of-simulation/
           company_logo: siemens
@@ -73,6 +73,18 @@ sections:
 
               * Extract and clean real-time production data
               * Develop algorithms to detect anomaly
+        - title: Visiting Student
+          company: Simon Fraser University
+          company_url: https://www.sfu.ca/stat-actsci.html
+          company_logo: SFU
+          location: Vancouver, Canada
+          date_start: '2022-06-01'
+          date_end: '2023-09-30'
+          description: |2-
+              Responsibilities include:
+
+              * Participated in the design and deployment of machine learning algorithms to gather data in healthcare
+              * Designed machine learning algorithms to analyze the data and deploy them on web and mobile
     design:
       columns: '2'
   - block: accomplishments
