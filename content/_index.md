@@ -85,6 +85,22 @@ sections:
 
               * Participated in the design and deployment of machine learning algorithms to gather data in healthcare
               * Designed machine learning algorithms to analyze the data and deploy them on web and mobile
+        - title: Research Intern
+          company: West China Biomedical Data Center, Sichuan University
+          company_url: https://www.wchscu.cn/dsj/index.html
+          company_logo: huaxi
+          location: Chengdu, China
+          date_start: '2021-09-01'
+          date_end: '2022-12-01'
+          description: Responsible for data collection and statistics analysis in young children physical fitness.
+        - title: Research Intern
+          company: Sichuan University
+          company_url: https://www.wchscu.cn/dsj/index.html
+          company_logo: scu
+          location: Chengdu, China
+          date_start: '2020-06-01'
+          date_end: '2020-11-01'
+          description: Responsible for constructing travel information system based on government open data.
     design:
       columns: '2'
   - block: accomplishments
