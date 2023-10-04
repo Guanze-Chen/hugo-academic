@@ -61,14 +61,18 @@ sections:
           date_start: '2023-08-01'
           date_end: ''
           description: Parameter-Efficient Fine-Tuning (PEFT) FOR LLM and test efficiency.
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+        - title: Data Analyst(Intership)
+          company: Siemens
+          company_url: https://blog.siemens.com/2021/11/the-power-of-simulation/
+          company_logo: siemens
+          location: Chengdu, China
+          date_start: '2022-12-01'
+          date_end: '2023-04-01'
+          description: |2-
+              Responsibilities include:
+
+              * Extract and clean real-time production data
+              * Develop algorithms to detect anomaly
     design:
       columns: '2'
   - block: accomplishments
