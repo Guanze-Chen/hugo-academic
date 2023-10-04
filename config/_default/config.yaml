@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: CHEN GUANZE # Website name
-baseURL: 'https://guanze.netlify.app/' # Website URL
+baseURL: 'https://guanzechen.netlify.app/' # Website URL
 
 ############################
 ## LANGUAGE
