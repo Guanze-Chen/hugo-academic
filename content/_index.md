@@ -69,27 +69,26 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
+        - title: Research Assistant
+          company: The Chinese University Of Hong Kong
+          company_url: 'https://www.cse.cuhk.edu.hk/'
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: Hong Kong, China
+          date_start: '2023-08-01'
           date_end: ''
+          description: Parameter-Efficient Fine-Tuning (PEFT) FOR LLMS and Test efficiency.
+        - title: Data Analyst(Intership)
+          company: Siemens
+          company_url: 'https://blog.siemens.com/2021/11/the-power-of-simulation/'
+          company_logo: org-x
+          location: Chendu, China
+          date_start: '2022-12-01'
+          date_end: '2023-4-01'
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+              * Extract and clean real-time production data
+              * Develop algorithms to detect anomaly
     design:
       columns: '2'
   - block: accomplishments
