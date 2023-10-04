@@ -55,12 +55,12 @@ sections:
       items:
         - title: Research Assistant
           company: The Chinese University Of Hong Kong
-          company_url: ''
+          company_url: https://www.cse.cuhk.edu.hk/
           company_logo: cuhk
           location: Hong Kong, China
           date_start: '2023-08-01'
           date_end: ''
-          description: Parameter-Efficient Fine-Tuning (PEFT) FOR LLMS and Test efficiency.
+          description: Parameter-Efficient Fine-Tuning (PEFT) FOR LLM and test efficiency.
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
