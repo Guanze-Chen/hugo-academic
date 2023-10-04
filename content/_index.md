@@ -35,28 +35,28 @@ sections:
 #         gradient_end: '#1976d2'
 #         gradient_start: '#004ba0'
 #         text_color_light: true
-  - block: about.biography
-    id: about
-    content:
-      title: Biography
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
-  - block: features
-    content:
-      title: Skills
-      items:
-        - name: Python
-          description: 90%
-          icon: python-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
-          icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
+  # - block: about.biography
+  #   id: about
+  #   content:
+  #     title: Biography
+  #     # Choose a user profile to display (a folder name within `content/authors/`)
+  #     username: admin
+  # - block: features
+  #   content:
+  #     title: Skills
+  #     items:
+  #       - name: Python
+  #         description: 90%
+  #         icon: python-project
+  #         icon_pack: fab
+  #       - name: Statistics
+  #         description: 100%
+  #         icon: chart-line
+  #         icon_pack: fas
+  #       - name: Photography
+  #         description: 10%
+  #         icon: camera-retro
+  #         icon_pack: fas
   - block: experience
     content:
       title: Experience
@@ -72,7 +72,7 @@ sections:
         - title: CEO
           company: GenCoin
           company_url: ''
-          company_logo: org-gc
+          company_logo: huaxi
           location: California
           date_start: '2021-01-01'
           date_end: ''
