@@ -1,7 +1,7 @@
 ---
 abstract: ""
 slides: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: uploads/AIGC.pdf
 publication_types:
   - "2"
 authors:
@@ -32,5 +32,4 @@ date: 2023-10-05T01:58:38.769Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00Z
 url_poster: ""
-url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 ---
