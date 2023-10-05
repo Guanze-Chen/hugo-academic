@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Guanze Chen 陈关泽
+title: CHEN Guanze
 
 # Full name (for SEO)
 first_name: Guanze
