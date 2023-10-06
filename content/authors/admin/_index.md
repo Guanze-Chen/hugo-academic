@@ -1,6 +1,6 @@
 ---
 # Display name
-title: CHEN Guanze
+title: Chen Guanze
 
 # Full name (for SEO)
 first_name: Guanze
