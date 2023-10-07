@@ -9,7 +9,7 @@ featured: false
 authors: []
 lastmod: 2022-12-13T00:00:00Z
 tags: []
-categories: []
+categories: ['Intro']
 projects: []
 image:
   caption: "[Welcome~](https://www.facebook.com/106032561338020/posts/welcome-to-my-page/106040118003931/)"
