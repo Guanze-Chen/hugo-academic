@@ -6,6 +6,7 @@ url_video: ""
 date: 2023-01-27T00:00:00Z
 external_link: ""
 url_slides: ""
+share: false
 title: Health Information System For Chronic Disease
 tags:
   - Machine Learning
