@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: CHEN GUANZE # Website name
-baseURL: 'http://www.guanzechen.me/' # Website URL
+baseURL: 'https://guanzechen.me' # Website URL
 
 ############################
 ## LANGUAGE ###
