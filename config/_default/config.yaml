@@ -7,7 +7,7 @@ title: CHEN GUANZE # Website name
 baseURL: 'http://www.guanzechen.me/' # Website URL
 
 ############################
-## LANGUAGE
+## LANGUAGE ###
 ############################
 
 defaultContentLanguage: en
