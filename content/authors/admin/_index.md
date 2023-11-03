@@ -28,7 +28,7 @@ bio: My research interests focus on the applcation of Artificial Intelligence in
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - LLM
+  - LLMs(Large Language Models)
   - Computational Social Science
 
 # Education to show in About widget
