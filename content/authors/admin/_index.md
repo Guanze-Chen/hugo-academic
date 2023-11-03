@@ -19,23 +19,23 @@ role: MSc student in Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: The Chinese University Of Hong Kong
+  - name: The Chinese University of Hong Kong
     url: https://www.cuhk.edu.hk/chinese/index.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Artificial Intelligence, Healthy Information and Computational Information Science.
+bio: My research interests focus on the applcation of Artificial Intelligence in Health, social science and so on.
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Healthy Information
+  - LLM
   - Computational Social Science
 
 # Education to show in About widget
 education:
   courses:
     - course: Master of Computer Science
-      institution: The Chinese University Of Hong Kong
+      institution: The Chinese University of Hong Kong
       year: 2023-2024
     - course: BSc in Information Resource Management
       institution: Sichuan University

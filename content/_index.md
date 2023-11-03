@@ -60,7 +60,7 @@ sections:
           location: Hong Kong, China
           date_start: '2023-08-01'
           date_end: ''
-          description: Parameter-Efficient Fine-Tuning (PEFT) FOR LLM and test efficiency.
+          description: Parameter-Efficient Fine-Tuning (PEFT) for LLM and test efficiency.
         - title: Data Analyst(Internship)
           company: Siemens
           company_url: https://blog.siemens.com/2021/11/the-power-of-simulation/
@@ -72,7 +72,7 @@ sections:
               Responsibilities include:
 
               * Extract and clean real-time production data
-              * Develop algorithms to detect anomaly
+              * Develop algorithms to detect anomaly and improve product test efficiency
         - title: Visiting Student
           company: Simon Fraser University
           company_url: https://www.sfu.ca/stat-actsci.html
