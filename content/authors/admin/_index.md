@@ -1,7 +1,8 @@
 ---
 # Display name
 title: Chen Guanze
-
+description: "Guanze Chen basic Information"
+keywords: Guanze Chen
 # Full name (for SEO)
 first_name: Guanze
 last_name: Chen
